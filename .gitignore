@@ -30,7 +30,6 @@ dmypy.json
 .pytype/
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
